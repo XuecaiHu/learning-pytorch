@@ -19,6 +19,10 @@ step by step learning pytorch
 13. nEURAL sTYLE TRANSFER[https://github.com/alexis-jacq/Pytorch-Tutorials]
 
 14. https://github.com/yunjey/pytorch-tutorial
+
+15. https://github.com/keon/pytorch-exercises
+
+16. https://github.com/clcarwin/convert_torch_to_pytorch
    
    
 
